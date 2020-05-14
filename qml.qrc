@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/bluetooth.png</file>
+        <file>images/refresh.png</file>
+    </qresource>
+</RCC>
